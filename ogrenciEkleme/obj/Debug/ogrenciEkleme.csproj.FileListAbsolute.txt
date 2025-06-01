@@ -1,0 +1,10 @@
+C:\Users\HUAWEI\OneDrive\Desktop\Görsel Prog\ogrenciEkleme\bin\Debug\ogrenciEkleme.exe.config
+C:\Users\HUAWEI\OneDrive\Desktop\Görsel Prog\ogrenciEkleme\bin\Debug\ogrenciEkleme.exe
+C:\Users\HUAWEI\OneDrive\Desktop\Görsel Prog\ogrenciEkleme\bin\Debug\ogrenciEkleme.pdb
+C:\Users\HUAWEI\OneDrive\Desktop\Görsel Prog\ogrenciEkleme\obj\Debug\ogrenciEkleme.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\OneDrive\Desktop\Görsel Prog\ogrenciEkleme\obj\Debug\ogrenciEkleme.Form1.resources
+C:\Users\HUAWEI\OneDrive\Desktop\Görsel Prog\ogrenciEkleme\obj\Debug\ogrenciEkleme.Properties.Resources.resources
+C:\Users\HUAWEI\OneDrive\Desktop\Görsel Prog\ogrenciEkleme\obj\Debug\ogrenciEkleme.csproj.GenerateResource.cache
+C:\Users\HUAWEI\OneDrive\Desktop\Görsel Prog\ogrenciEkleme\obj\Debug\ogrenciEkleme.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\OneDrive\Desktop\Görsel Prog\ogrenciEkleme\obj\Debug\ogrenciEkleme.exe
+C:\Users\HUAWEI\OneDrive\Desktop\Görsel Prog\ogrenciEkleme\obj\Debug\ogrenciEkleme.pdb
